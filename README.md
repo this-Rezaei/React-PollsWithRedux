@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <a href="https://ui.dev">
+    <img
+      src="https://ui.dev/images/logos/ui.png"
+      alt="UI.dev Logo" width="300" />
+  </a>
+  <br />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">Redux Course Project #2 - <a href="https://ui-polls.netlify.app/">Polls</a></h3>
 
-## Available Scripts
+### Info
 
-In the project directory, you can run:
+This is the repository for [UI.dev](https://ui.dev)'s "Redux #2" course project.
 
-### `npm start`
+For more information on the course, visit __[ui.dev/redux](https://ui.dev/redux/)__.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Project
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project is a polls app.
 
-### `npm test`
+You can view the final project __[here](https://ui-polls.netlify.app/)__
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Branches
 
-### `npm run build`
+Every `(Project)` video in the course coincides with a branch in this repo. If you want to compare your code with Tyler's or you just want to play around with the code, check out the different branches.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Below every `(Project)` video in the course will be a direct link to both the commit for that video as well as its branch.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img align='center' src='https://user-images.githubusercontent.com/2933430/53434937-df9cc300-39b4-11e9-8e8f-5bdd212cac2d.png' width='200' />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Project Preview
 
-### `npm run eject`
+![](https://user-images.githubusercontent.com/2933430/81010664-d78baf00-8e13-11ea-855e-359382ee9be9.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![](https://user-images.githubusercontent.com/2933430/81010657-d5c1eb80-8e13-11ea-9722-970250dcddec.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![](https://user-images.githubusercontent.com/2933430/81010652-d2c6fb00-8e13-11ea-8fa2-188b87f15db0.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](https://user-images.githubusercontent.com/2933430/81010661-d65a8200-8e13-11ea-8db2-4571602b9fa1.png)
